@@ -1,0 +1,58 @@
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.exe
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.deps.json
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.runtimeconfig.json
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.runtimeconfig.dev.json
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.pdb
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.AssemblyInfoInputs.cache
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.AssemblyInfo.cs
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.RazorTargetAssemblyInfo.cache
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\staticwebassets\MISA.Dapper.StaticWebAssets.Manifest.cache
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\staticwebassets\MISA.Dapper.StaticWebAssets.xml
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.pdb
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.genruntimeconfig.cache
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.csprojAssemblyReference.cache
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.csproj.CopyComplete
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\hungj\Source\Repos\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.MvcApplicationPartsAssemblyInfo.cache
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.exe
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.deps.json
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.runtimeconfig.json
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.runtimeconfig.dev.json
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\MISA.Dapper.pdb
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.csprojAssemblyReference.cache
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.AssemblyInfoInputs.cache
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.AssemblyInfo.cs
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.csproj.CoreCompileInputs.cache
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.MvcApplicationPartsAssemblyInfo.cache
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.RazorTargetAssemblyInfo.cache
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.csproj.CopyComplete
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\staticwebassets\MISA.Dapper.StaticWebAssets.Manifest.cache
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\staticwebassets\MISA.Dapper.StaticWebAssets.xml
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.dll
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.pdb
+D:\My Project\MISA\Dapper\MISA.Dapper\MISA.Dapper\obj\Debug\netcoreapp3.1\MISA.Dapper.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+Các bước demo Dapper cơ bản:
+B1: Tạo cơ sở dữ liệu và bảng dữ liệu Student
+B2: Tạo project, thêm kết nối với cơ sở dữ liệu
+B3: Thêm ConnectionString vào appsetting.json
+B4: Tạo folder Common => tạo Global.cs
+B4: Vào Startup cấu hình kết nối với cơ sở dữ liệu
+            services.AddSingleton<IConfiguration>(Configuration);
+            Global.ConnectionString = Configuration.GetConnectionString("DefaultConnect");
+B5: Tạo Models => Tạo class Student với các trường tương ứng
+B6: Tạo IStudentService trong IServices để tạo các phương thức Save, Gets, Get, Update, Delete
+B7: Tạo StudentService trong Services. Vào Startup thêm 
+	    services.AddScoped<IStudentService, StudentService>();
+B8: Vào Nuget install Dapper
+B9: Tạo enum StateType : None = 0, Insert = 1, Update = 2, Delete = 3 
+B10: + Vào thêm các service : " using (IDbConnection con = new SqlConnection(Global.ConnectionString))"
+     + install System.Data.SqlClient
+     + Thêm hàm 
+	private DynamicParameters SetParameters(Student oStudent)
+        {
+            DynamicParameters parameters = new DynamicParameters();
+            parameters.Add("@StudentID", oStudent.StudentID);
+            parameters.Add("@StudentCode", oStudent.StudentCode);
+            parameters.Add("@StudentName", oStudent.StudentName);
+            parameters.Add("@Birthday", oStudent.Birthday);
+            parameters.Add("@Email", oStudent.Email);
+            parameters.Add("@Address", oStudent.Address);
+            parameters.Add("@CreatedDate", oStudent.CreatedDate);
+            parameters.Add("@ModifiedDate", oStudent.ModifiedDate);
+            return parameters;
+        }
+
+
+sql = insert into student(StudentID, StudentCode, StudentName, Birthday, Email, Address, CreatedDate, ModifiedDate) values(@StudentID, @StudentCode, @StudentName, @Birthday, @Email, @Address, @CreatedDate, @ModifiedDate)
+update student set StudentCode = @StudentCode, StudentName = @StudentName, Birthday = @Birthday, Email = @Email, Address = @Address, ModifiedDate = @ModifiedDate where StudentID = @StudentID
+
+* Khi install Dapper.Contrib thì có thể sử dụng trực tiếp các Get
+T Get<T>(id);
+IEnumerable<T> GetAll<T>();
+int Insert<T>(T obj);
+int Insert<T>(Enumerable<T> list);
+bool Update<T>(T obj);
+bool Update<T>(Enumerable<T> list);
+bool Delete<T>(T obj);
+bool Delete<T>(Enumerable<T> list);
+bool DeleteAll<T>();
+=> Lưu ý ở Entity phải add [Table("Student")] cho class và [ExplicitKey] cho khóa chính
